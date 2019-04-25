@@ -1,0 +1,6 @@
+name: 'Config Override'
+description: 'Config override existings configs'
+type: module
+core: 8.x
+version: '8.x-1.0'
+package: 'Training'

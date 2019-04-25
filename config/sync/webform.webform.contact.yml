@@ -1,12 +1,9 @@
-uuid: ce5b41d4-cd36-48a5-a89e-7c5f1b484656
 langcode: en
 status: open
 dependencies:
   enforced:
     module:
       - webform
-_core:
-  default_config_hash: Db1CJM6FchEqqeVz5YJThCK0WB599y4NjQ4GkPcGF5g
 open: null
 close: null
 weight: 0
@@ -240,3 +237,6 @@ handlers:
       return_path: ''
       sender_mail: ''
       sender_name: ''
+uuid: ce5b41d4-cd36-48a5-a89e-7c5f1b484656
+_core:
+  default_config_hash: Db1CJM6FchEqqeVz5YJThCK0WB599y4NjQ4GkPcGF5g
