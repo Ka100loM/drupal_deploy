@@ -25,3 +25,6 @@
 
 # Ignore .Ds_Store files
 *.Ds_Store
+
+#Ignore privets-files
+/private-files/
